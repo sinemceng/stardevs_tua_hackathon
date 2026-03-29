@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Sanal ortam
+venv/
+env/
+.env
+
+# Model ve Geçici Çıktılar (Eğer model çok büyükse LFS kullanmalısın, şimdilik hariç tutabilirsin)
+tahmin_sonucu.npy
+rover_mission_path.json
+
+# Streamlit ve İşletim Sistemi
+.streamlit/
+.DS_Store
+Thumbs.db
