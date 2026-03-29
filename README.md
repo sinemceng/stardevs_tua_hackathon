@@ -1,4 +1,4 @@
-# 🌙 TUA Astro: Otonom Ay Aracı Navigasyon Sistemi
+# TUA Astro: Otonom Ay Aracı Navigasyon Sistemi
 
 ![Python](https://img.shields.io/badge/python-3.9%2B-brightgreen.svg)
 ![TensorFlow](https://img.shields.io/badge/tensorflow-2.10%2B-orange.svg)
